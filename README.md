@@ -21,6 +21,7 @@
   - React-router-dom
   - Styled-components
   - Context Api
+  - Bootstrap
   - Docker
   - Eslint
 
