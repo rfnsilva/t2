@@ -32,7 +32,7 @@
   - docker-compose.yml
   
 ## Rodar localmente 
-( Obs: usar o email: admin<span></span>@admin.com; senha: 123456 )
+( Obs: para logar usar o email: admin<span></span>@admin.com; senha: 123456 )
 
 <br />
 
