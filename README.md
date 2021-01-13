@@ -173,11 +173,11 @@ url = http://localhost:3333/updateUser/1
 
 body (dados para atualização)
 {
+  "id": 1,
   "name": "admin",
   "email": "admin@admin.com",
   "phone": "11912321312",
-  "cpf": "4999999999",
-  "password": "123456"
+  "cpf": "4999999999"
 }
 ```
 
@@ -187,8 +187,8 @@ Resposta: 200
   "status": "200",
   "data": {
     "id": 1,
-    "name": "admin",
-    "email": "admin@admin.com",
+    "name": "admin_atualizado",
+    "email": "admin_atualizado@admin_atualizado.com",
     "phone": "11912321312",
     "cpf": "4999999999"
   }
